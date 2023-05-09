@@ -25,7 +25,7 @@ public class App {
         {
             System.out.println(prod.toString());
         }
-new AppFrame("получилось!");   
+new AppFrame("Vending Machine!", itemMachin);   
     }
  
 }  
